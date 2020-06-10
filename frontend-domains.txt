@@ -1,0 +1,5 @@
+# Frontend Domains (Random Selection)
+
+rubel-video-cdn.ruangguru.com.akamaized.net:443
+151.101.9.194:443
+118.98.95.106:443
